@@ -2,6 +2,6 @@
 My first repository
 
 # Favorite Movie
-*MEG*
-**BIG HERO 6**
-# FREE GUY
+1. MEG
+2. BIG HERO 6
+3. FREE GUY
